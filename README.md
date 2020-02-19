@@ -281,6 +281,8 @@ Once you have done with your setup. You need to put your website online!
 
 I highly recommend to use [Netlify](https://netlify.com) to achieve this on the EASIEST WAY
 
+Check out for updated version of simplefolio @ (https://quizzical-turing-651592.netlify.com/)
+
 Because this template use Webpack maybe you can get errors during deployment, Please watch my step-by-step video tutorial to successfully upload your Simplefolio Website on Netlify!
 
 **[WATCH NOW MY STEP-BY-STEP TUTORIAL FOR DEPLOYMENT](https://www.youtube.com/watch?v=soaG3GNSxJY)**
